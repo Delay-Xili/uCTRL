@@ -8,4 +8,4 @@ This repository contains the official PyTorch implementation of the paper:
 ["Unsupervised Learning of Structured Representations via Closed-Loop Transcription"]().
 
 
-## Here, we will release code and checkpoints in the near future! Stay tuned!
+## Here, we will release code and checkpoints in the near future (Estimated 11th Nov)! Stay tuned!
